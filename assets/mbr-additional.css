@@ -1,3 +1,20 @@
+.cid-tpNMEMtmmt {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpNMEMtmmt .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-tpNMEMtmmt form .mbr-section-btn {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+.cid-tpNMEMtmmt form .mbr-section-btn .btn {
+  width: 100%;
+  height: 100%;
+}
 body {
   font-family: Jost;
 }
